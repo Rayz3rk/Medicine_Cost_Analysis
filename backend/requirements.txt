@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+redis
+pymongo
+neo4j
+cloudevents
+pycryptodome
+python-jose[cryptography]
+pydantic
+python-dotenv

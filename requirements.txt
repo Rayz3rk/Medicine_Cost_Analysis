@@ -1,0 +1,8 @@
+chromadb
+sentence-transformers
+pymupdf
+python-docx
+beautifulsoup4
+python-dotenv
+requests
+openai
